@@ -6,7 +6,7 @@ curl -fsSL https://raw.githubusercontent.com/Bovmelo/macos-bitsstdc--/refs/heads
 
 Then, enjoy including `bits/stdc++.h` in your code!
 
-The stdc++.h is a subset of the bits/stdc++.h file from the 15.2.0 GNU C++ Library, which are compatible with the Apple Clang.
+The stdc++.h is a subset of the bits/stdc++.h file from the 15.2.0 GNU C++ Library, and it's compatible with the Apple Clang.
 
 
 ----
