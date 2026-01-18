@@ -109,7 +109,6 @@
 #include <cuchar>
 #if __cplusplus < 201703L
 #include <ccomplex>
-#include <cstdalign>
 #include <cstdbool>
 #include <ctgmath>
 #endif
