@@ -21,4 +21,8 @@ As you may know, the g++ command on MacOS actually uses Apple Clang. While you c
 
 但是 Apple Clang 在竞赛编程等简单的应用场景中，与 GNU GCC 相比，并没有什么致命的差别，除了用不了 `bits/stdc++.h`．
 
-However, in some lightweight scenarios like competitive programming, there is no significant difference between Apple Clang and GNU GCC, except for, `bits/stdc++.h`．.
+However, in some lightweight scenarios like competitive programming, there is no significant difference between Apple Clang and GNU GCC, except for, `bits/stdc++.h`．
+
+如果这个仓库对你有帮助，请点一个不要钱的小星星吧 sto
+
+If this repository has been helpful for you, please consider leaving a free star :)
